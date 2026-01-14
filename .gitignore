@@ -1,2 +1,7 @@
+data/raw/
 data/processed/
+*.zip
+*.csv
 *.pkl
+*.npy
+__pycache__/
